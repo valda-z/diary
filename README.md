@@ -1,1 +1,1 @@
-# diary
+# Diary of a Programmer
